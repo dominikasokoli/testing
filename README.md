@@ -2,9 +2,9 @@
 > Project dedicated to testing exercises as a part of postgraduate degree in Software Testing. 
 
 ## Table of contents
-* [Techonologies] (#technologies)
-* [General info] (#general-info)
-* [Installation] (#installation)
+* [Techonologies](#technologies)
+* [General info](#general-info)
+* [Installation](#installation)
 * [Status](#status)
 
 ## Technologies
